@@ -1,7 +1,7 @@
 # AutoHDRForAllGames
 Simple instruction on how to enable autohdr in every game.
 
- 1. Use this tool on every directx11+ and vulkan game to force autohdr: https://github.com/ledoge/autohdr_force -> download it from the releases section, copy it to game folder and use it. That's all.  AND -> Proceed to 4) if the game uses vulkan.
+ 1. Use this tool on every directx11+ and vulkan game to force autohdr: https://github.com/ledoge/autohdr_force -> download it from the releases section, copy it to game folder and use it. That's all.  AND -> Proceed to 5) if the game uses vulkan.
  2.  If the game is older and supports only directx9, use DXVK: https://github.com/doitsujin/dxvk (perfectly safe for all games, this is a part of what  steamdeck uses to run games on linux)
  3. You have to create dxvk.conf file with this content to enable HDR while you use dxvk: "dxgi.enableHDR = True" (without the " " symbols.) The file should contain only one row. Its in this github repo, you can just use it.
  4. How to use dxvk ? Just download it from the releases tab, and put the dll files in your game folder. Same goes for config files.
