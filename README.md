@@ -13,3 +13,6 @@ This repo was created as a way to contact one particular youtuber,
 because every time I post this guide into comment section, 
 I get a shadow ban on comments by youtube allmighty algorythm. 
 I cannot even mention the words: search, github in one sentence...
+
+None of those comments are visible because of youtube shadow ban system (And I understand why -> SECURITY, but I still hate youtube for it.) 
+<img width="1276" alt="image" src="https://github.com/Rozzemak/AutoHDRForAllGames/assets/28568671/0080b155-fef2-481a-bae5-487fe79c6309">
