@@ -7,3 +7,9 @@ Simple instruction on how to enable autohdr in every game.
  4. Set a setting in Nvidia Control Panel -> Manage 3d settings -> scroll all the way down -> "Vulkan/OpenGL present method" => Prefer layered on DXGI swapchain" 
  5. This driver setting will reset itself every time you upgrade you nvidia driver
  6. This will also allow you to use reshade cactus fix on older games to tweak hdr even more.
+
+
+This repo was created because as a way to contact one particular youtuber, 
+because every time I post this guide into comment section, 
+I get a shadow ban on comments by youtube allmighty algorythm. 
+I cannot even mention the words: search, github in one sentence...
